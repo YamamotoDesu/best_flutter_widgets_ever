@@ -18,3 +18,6 @@ https://github.com/fluttermapp/flutter_widgets
 ## LongPressDraggable #4
 
 <img width="100" alt="スクリーンショット 2023-05-06 15 30 05" src="https://user-images.githubusercontent.com/47273077/236606408-133bfc38-d3dc-4cc6-8942-4b289ebf3128.png">
+
+## InteractiveViewer #5
+<img width="100" alt="スクリーンショット 2023-05-06 15 40 58" src="https://user-images.githubusercontent.com/47273077/236607711-31ebab02-88a7-419b-84a5-5f3a70b36d44.png">
