@@ -1,4 +1,5 @@
 import 'package:best_flutter_widgets_ever/1_material_banner/material_banner.dart';
+import 'package:best_flutter_widgets_ever/2_preferred_size/preferred_size.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,12 +17,13 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Best Flutter Widgets EVER!'),
-        ),
-        body: const MyMaterialBanner(),
-      ),
+      // home: Scaffold(
+      //   appBar: AppBar(
+      //     title: const Text('Best Flutter Widgets EVER!'),
+      //   ),
+      //   body: const MyPreferredSize(),
+      // ),
+      home: MyPreferredSize(),
     );
   }
 }
