@@ -1,15 +1,8 @@
 # best_flutter_widgets_ever
 https://www.youtube.com/watch?v=G1LGOH424lo&list=WL&index=2
 
-## Getting Started
+## MaterialBanner #1
 
-This project is a starting point for a Flutter application.
+<img width="100" alt="スクリーンショット 2023-05-06 13 51 10" src="https://user-images.githubusercontent.com/47273077/236600565-5ed98bd1-91e6-44fb-bdea-bf5513e2b049.png">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
