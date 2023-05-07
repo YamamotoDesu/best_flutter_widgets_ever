@@ -28,4 +28,5 @@ https://github.com/fluttermapp/flutter_widgets
 ## CheckListTitle #7
 <img width="100" alt="スクリーンショット 2023-05-07 16 18 32" src="https://user-images.githubusercontent.com/47273077/236663608-d8e1f725-0da7-4474-b899-2209296803f5.png">
 
-
+## CircleAvatar #8
+<img width="100" alt="スクリーンショット 2023-05-07 16 27 17" src="https://user-images.githubusercontent.com/47273077/236663937-de0c7435-b6d9-483f-b6bf-cb84bf80e9ea.png">
